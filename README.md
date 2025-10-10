@@ -1,6 +1,5 @@
 # 🔫 Bulletstorm — Advanced 3D FPS (Beta)
 ![Platform](https://img.shields.io/badge/Platform-Roblox-blue?style=for-the-badge&logo=roblox)
-![Engine](https://img.shields.io/badge/Engine-Physics%20Driven-9cf?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Beta-yellow?style=for-the-badge)
 
 **Overview**  
