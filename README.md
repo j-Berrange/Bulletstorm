@@ -1,4 +1,4 @@
-# 🔫 Bulletstorm — Advanced 3D FPS (Beta)
+#  Bulletstorm — Multiplayer 3D FPS
 ![Platform](https://img.shields.io/badge/Platform-Roblox-blue?style=for-the-badge&logo=roblox)
 ![Status](https://img.shields.io/badge/Status-Beta-yellow?style=for-the-badge)
 
@@ -12,17 +12,17 @@ An advanced **3D first-person shooter** featuring a **physics-based gun system**
 
 ---
 
-## 🔥 Highlights
-- ⚙️ **Physics-Driven Gunplay:** Accurate recoil, spread, and handling mapped to a robust node system.  
-- 🧩 **Node-Based Attachments:** Modular attachments per weapon
-- 💰 **In-Game Economy:** Earn money from matches to buy weapons and attachments.  
-- ☁️ **Cloud Persistence:** Player rank, XP, and inventory saved across sessions.  
-- 🎬 **Polished Presentation:** Camera/character/lighting/UI animations + curated SFX.  
-- 🎨 **Cinematic VFX:** Light rays, depth of field, and dynamic color grading.
+##  Highlights
+-  **Physics-Driven Gunplay:** Accurate recoil, spread, and handling mapped to a robust node system.  
+-  **Node-Based Attachments:** Modular attachments per weapon
+-  **In-Game Economy:** Earn money from matches to buy weapons and attachments.  
+-  **Cloud Persistence:** Player rank, XP, and inventory saved across sessions.  
+-  **Polished Presentation:** Camera/character/lighting/UI animations + curated SFX.  
+-  **Cinematic VFX:** Light rays, depth of field, and dynamic color grading.
 
 ---
 
-## 🕹️ Core Mechanics
+##  Core Mechanics
 - The goal is simple: **get kills**.  
 - Use **money** to **buy weapons**.  
 - Gain **XP** to **level up**.  
